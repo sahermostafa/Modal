@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Modal/static/js/main.50d50b0f.chunk.js",
+    "main.js.map": "/Modal/static/js/main.50d50b0f.chunk.js.map",
+    "runtime-main.js": "/Modal/static/js/runtime-main.07ee9c0d.js",
+    "runtime-main.js.map": "/Modal/static/js/runtime-main.07ee9c0d.js.map",
+    "static/js/2.fb5f777d.chunk.js": "/Modal/static/js/2.fb5f777d.chunk.js",
+    "static/js/2.fb5f777d.chunk.js.map": "/Modal/static/js/2.fb5f777d.chunk.js.map",
+    "index.html": "/Modal/index.html",
+    "static/js/2.fb5f777d.chunk.js.LICENSE.txt": "/Modal/static/js/2.fb5f777d.chunk.js.LICENSE.txt",
+    "static/media/modal.508cd51b.jpg": "/Modal/static/media/modal.508cd51b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07ee9c0d.js",
+    "static/js/2.fb5f777d.chunk.js",
+    "static/js/main.50d50b0f.chunk.js"
+  ]
+}
